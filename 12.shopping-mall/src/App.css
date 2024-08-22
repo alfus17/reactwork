@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+
+.main-bg {
+  height: 750px;
+  background-image: url("../public/img/main-bg.jpg");
+  background-repeat: no-repeat;
+  display: flex;
+}
+
+#a {
+  height: 400px;
+}

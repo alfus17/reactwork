@@ -10,8 +10,21 @@
   display: flex;
 }
 
+img{
+  width: 500px;
+
+}
 
 
 #a {
   height: 400px;
+}
+
+.start {
+  transform: scale(0);
+}
+
+.end{
+  transform: scale(1);
+  transition: all 1s;
 }
